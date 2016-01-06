@@ -1,0 +1,26 @@
+{
+  "name": "fresh-resume-empty",
+  "version": "0.1.0",
+  "description": "An empty FRESH resume.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fluentdesk/fresh-resume-empty.git"
+  },
+  "keywords": [
+    "resume",
+    "CV",
+    "FRESH",
+    "FluentCV",
+    "HackMyResume",
+    "schema",
+    "JSON",
+    "employment"
+  ],
+  "author": "hacksalot <hacksalot@indevious.com> (http://indevious.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fluentdesk/fresh-resume-empty/issues"
+  },
+  "main": "src/empty-fresh.json",
+  "homepage": "https://github.com/fluentdesk/fresh-resume-empty"
+}
