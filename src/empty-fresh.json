@@ -3,8 +3,8 @@
   "name": "",
 
   "meta": {
-    "format": "FRESH@0.3.0",
-    "version": "0.1.0"
+    "format": "FRESH@0.4.0",
+    "version": "0.2.0"
   },
 
   "info": {
@@ -12,6 +12,17 @@
     "characterClass": "",
     "brief": "",
     "image": ""
+  },
+
+  "disposition": {
+    "travel": 0,
+    "authorization": "",
+    "commitment": [],
+    "remote": false,
+    "relocation": {
+      "willing": false,
+      "destinations": []
+    }
   },
 
   "contact": {
@@ -28,15 +39,6 @@
     "code": "",
     "country": ""
   },
-
-  "social": [
-    {
-      "label": "",
-      "network": "",
-      "user": "",
-      "url": ""
-    }
-  ],
 
   "employment": {
     "summary": "",
@@ -68,21 +70,15 @@
     }
   ],
 
-  "education": {
-    "summary": "",
-    "level": "",
-    "degree": "",
-    "history": [
+  "skills": {
+    "sets": [
       {
-        "institution": "",
-        "url": "",
-        "start": "",
-        "end": "",
-        "grade": "",
-        "summary": "",
-        "curriculum": []
+        "name": "",
+        "level": "",
+        "skills": []
       }
-    ]
+    ],
+    "list": [ ]
   },
 
   "service": {
@@ -101,23 +97,40 @@
     ]
   },
 
-  "skills": {
-    "sets": [
+  "education": {
+    "summary": "",
+    "level": "",
+    "degree": "",
+    "history": [
       {
-        "name": "",
-        "level": "",
-        "skills": []
+        "institution": "",
+        "url": "",
+        "start": "",
+        "end": "",
+        "grade": "",
+        "summary": "",
+        "curriculum": []
       }
-    ],
-    "list": [ ]
+    ]
   },
 
-  "samples": [
+  "social": [
     {
+      "label": "",
+      "network": "",
+      "user": "",
+      "url": ""
+    }
+  ],
+
+  "recognition": [
+    {
+      "flavor": "",
+      "from": "",
       "title": "",
-      "summary": "",
-      "url": "",
-      "date": ""
+      "event": "",
+      "date": "",
+      "summary": ""
     }
   ],
 
@@ -143,14 +156,41 @@
     }
   ],
 
-  "recognition": [
+  "speaking": [
     {
-      "flavor": "",
-      "from": "",
       "title": "",
       "event": "",
+      "location": "",
       "date": "",
-      "summary": ""
+      "highlights": []
+    }
+  ],
+
+  "governance": [
+    {
+      "summary": "",
+      "flavor": "",
+      "role": "",
+      "organization": "",
+      "start": "",
+      "end": "",
+      "highlights": []
+    }
+  ],
+
+  "languages": [
+    {
+      "language": "",
+      "level": ""
+    }
+  ],
+
+  "samples": [
+    {
+      "title": "",
+      "summary": "",
+      "url": "",
+      "date": ""
     }
   ],
 
@@ -177,19 +217,39 @@
     }
   ],
 
-  "languages": [
-    {
-      "language": "",
-      "level": ""
-    }
-  ],
-
   "interests": [
     {
       "name": "",
       "summary": "",
       "keywords": []
     }
-  ]
+  ],
+
+  "extracurricular": [
+    {
+      "title": "",
+      "activity": "",
+      "location": "",
+      "start": "",
+      "end": ""
+    }
+  ],
+
+  "affiliation": {
+    "summary": "",
+    "history": [
+      {
+        "category": "",
+        "organization": "",
+        "role": "",
+        "url": "",
+        "start": "",
+        "end": "",
+        "summary": "",
+        "location": "",
+        "highlights": []
+      }
+    ]
+  }
 
 }
